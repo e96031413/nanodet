@@ -61,7 +61,7 @@ data:
   val:
     name: coco
     img_path: cocoval2017
-    ann_path: coco/annotationsinstances_val2017.json
+    ann_path: coco/annotations/instances_val2017.json
     input_size: [320,320] #[w,h]
     keep_ratio: True
     pipeline:
